@@ -3,12 +3,11 @@
 ## Hi there 👋 I'm Ezy 
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=ezdilod&show_icons=true&theme=radical" />
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezdilod&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats" />
-
-<br/>
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezdilod&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats" /> 
 <br/>
 
-## I'm interessted to working with 
+
+<h1>I'm interessted to working with </h1>
 
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
