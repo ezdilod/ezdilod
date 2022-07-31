@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezdilod" alt="ezdilod" /></a> </p>
 
-- 🔭 I’m currently working on **my Portfolio Page**
+- 🔭 I'm working on **my portfolio page**, I'll put the link here as soon as my page is finished.
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 Currently i'm learning **Angular, React**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
