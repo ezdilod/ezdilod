@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm EZY</h1>
 <h3 align="center">A passionate frontend developer .</h3>
 
+
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    
 <img align='left' width="47%"  alt="ezdilod's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ezdilod?cardType=github&theme=github-dark" />  </a>
 
