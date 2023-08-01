@@ -15,11 +15,8 @@
 
 - 🔭 Friends for you is coming, stay tuned 🤯
 
-<p align="center">
-<img src="https://image.similarpng.com/very-thumbnail/2020/09/Instagram-logo-icon-on-transparent-background-PNG.png" alt="Instagram" width="40" height="40" style="border-radius: 10px;"/>
-</p>
-<p align="center">
-  <a href="https://www.instagram.com/ezycode_webdesign/" target="_blank"> Instagram </a>
+<p align="left">
+  <a href="https://www.instagram.com/ezycode_webdesign/" target="_blank"> <img src="https://image.similarpng.com/very-thumbnail/2020/09/Instagram-logo-icon-on-transparent-background-PNG.png" alt="Instagram" width="60" height="60" style="border-radius: 10px;"/> </a>
 </p>
 
 
