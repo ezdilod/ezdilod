@@ -16,12 +16,10 @@
 - 🔭 Friends for you is coming, stay tuned 🤯
 
 <div style="display: flex; align-items: center;">
-  <p align="left" style="margin-right: 10px;">
-    <a href="https://www.instagram.com/ezycode_webdesign/" target="_blank">
-      <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram Logo" width="60" height="60" style="border-radius: 10px; background-color: #2e3136;" />
-    </a>
-  </p>
-  <p style="margin: 0;">Instagram</p>
+  <a href="https://www.instagram.com/ezycode_webdesign/" target="_blank">
+    <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram Logo" width="60" height="60" style="border-radius: 10px; background-color: #2e3136;"/>
+  </a>
+  <p style="margin: 0; margin-left: 10px;">Instagram</p>
 </div>
 
 
